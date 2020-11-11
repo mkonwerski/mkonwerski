@@ -1,12 +1,9 @@
 header:
   - title:      Docs!
     url:        /docs/en/quick-start
-   
   - titles:     Archive
     url:        /archive.html
-  
   - titles:     About
     url:        /about.html
-  
   - title:      GitHub
     url:        https://github.com/kitian616/jekyll-TeXt-theme
