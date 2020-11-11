@@ -1,9 +1,15 @@
 header:
-  - title:      Docs
-    url:        /docs/en/quick-start
-  - titles:     Archive
-    url:        /archive.html
-  - titles:     About
-    url:        /about.html
-  - title:      GitHub
-    url:        https://github.com/kitian616/jekyll-TeXt-theme
+  - title:      Start
+    children:
+      - title:  Quick Start
+        url:    /docs/en/quick-start
+      - title:  Structure
+        url:    /docs/en/structure
+      
+  - title:      Customization
+    children:
+      - title:  Configuration
+        url:    /docs/en/configuration
+      - title:  Navigation
+        url:    /docs/en/navigation
+      
