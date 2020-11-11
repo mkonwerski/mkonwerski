@@ -1,1 +1,6 @@
-jdsfjadshfdhdfkj
+layout: articles
+title: Articles - Grid (Small Size)
+articles:
+  data_source: site.sample_page
+  type: grid
+  size: sm
