@@ -1,7 +1,11 @@
 ---
-title: uprawanian
-tags: lolo
-mathjax: true
+layout: article
+title: Page - Article Header Overlay Background Fill
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#123'
+  background_image: false
 ---
 Rozporządzenie ministra transportu, budownictwa i gospodarki morskiej reguluję warunki i wymagania dotyczące używania samolotów ultralekkich. Będą nas interesowały przede wszystkim dwa rozporządzenia ministra:
 w sprawie wyłączenia zastosowania niektórych przepisów ustawy – Prawo lotnicze do niektórych rodzajów statków powietrznych oraz określenia warunków i wymagań dotyczących używania tych statków. A dokładniej załącznik nr 5 tego rozporządzenia, warunki i wymagania dotyczące używania ultralekkich statków powietrznych
