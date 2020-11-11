@@ -1,4 +1,8 @@
-
+---
+title: uprawanian
+tags: lolo
+mathjax: true
+---
 Rozporządzenie ministra transportu, budownictwa i gospodarki morskiej reguluję warunki i wymagania dotyczące używania samolotów ultralekkich. Będą nas interesowały przede wszystkim dwa rozporządzenia ministra:
 w sprawie wyłączenia zastosowania niektórych przepisów ustawy – Prawo lotnicze do niektórych rodzajów statków powietrznych oraz określenia warunków i wymagań dotyczących używania tych statków. A dokładniej załącznik nr 5 tego rozporządzenia, warunki i wymagania dotyczące używania ultralekkich statków powietrznych
 w sprawie świadectw kwalifikacji i znów interesuje nas załącznik nr 5, szczegółowe wymagania dotyczące kwalifikacji lotniczych w zakresie wiedzy, umiejętności i praktyki dla świadectwa kwalifikacji pilota statku powietrznego o maksymalnej masie startowej (mtom) do 495 kg (UACP)
