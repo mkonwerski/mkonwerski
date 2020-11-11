@@ -16,17 +16,27 @@ Rozporządzenie mówi że samolot ultralekki – statku powietrznego posiadając
 Sama definicja samolotu choć długa daje nam wiele informacji. Można sobie uświadomić jak wiele jest rodzajów ultralekkich samolotów. A to dopiero początek przepisów.
 ​
 W następnych rozdziałach poruszane są ciekawe i ważne kwestie:
- Rozdział 2 - Określenia
+
+Rozdział 2 - Określenia
+
 Rozdział 3 - Zasady eksploatacji ultralekkich statków powietrznych
+
 Rozdział 4 - Organizacja lotów
+
 Rozdział 5 - Wykonywanie lotów i postępowanie w sytuacjach niebezpiecznych – bardzo ważny rozdział
+
 Rozdział 6 - Odpowiedzialność
+
 Rozdział 7 - Dopuszczenie sprzętu do lotów
+
 Rozdział 8 - Wymagania techniczne dla ultralekkich statków powietrznych
+
 Rozdział 9 - Zatwierdzone podmioty projektujące, produkujące i obsługujące ultralekkie statki powietrzne
+
 Rozdział 10 - Obsługa techniczna sprzętu
+
 Rozdział 11 - Wzór książki ultralekkiego statku powietrznego
- 
+
 We wszystkich rozdziałach znajdziecie jakieś informację, które was prędzej czy później zainteresują. Nie ma sensu ich omawiać, bo przeklejenie ustawy nie jest niczym fascynującym. Chciałbym się skupić tylko na jednym rozdziale, który może wydać się na starcie bardzo interesujący dla przedsiębiorców. Rozdział, który wydał mi się na początku mało istotny, gdy zrozumiałem o co w nim chodzi stwierdziłem, że może przynieść on wiele oszczędności - Rozdział 3 Zasady eksploatacji ultralekkich statków powietrznych.
  
 Po 100h nalotu jako kapitan samolotu, można świadczyć następujące usługi lotnicze:
